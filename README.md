@@ -1,4 +1,4 @@
-# SigmaOS-arch-ash
+# SigmaOS-ash
 
 No GitHub description is set; component scope remains unclassified.
 
